@@ -2,4 +2,4 @@
 
 Aplicativo mostrando frases aleatorias.
 
-![alt tag](https://github.com/xlDoug/app-gerador-numerico/blob/master/gerador-numeros-randomicos.png)
+![alt tag](https://github.com/xlDoug/app-frases-do-dia/blob/master/app-frases-do-dia.png)
